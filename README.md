@@ -1,5 +1,5 @@
 # Introduction-to-Computer-Science
-This are the projects I have completed in the course "Introduction to Computer Science" in the "Open Univesity". This course aims to teach fundamental and advanced concepts of Computer Science, introduces the concepts of Object-Oriented Programming, efficiency and data structures. Additional details about the course can be found on this [link](#[https://www-e.openu.ac.il/courses/20441.htm](https://www-e.openu.ac.il/courses/20441.htm)).
+This are the projects I have completed in the course "Introduction to Computer Science" in the "Open Univesity". This course aims to teach fundamental and advanced concepts of Computer Science, introduces the concepts of Object-Oriented Programming, efficiency and data structures. Additional details about the course can be found on this [link](#https://www-e.openu.ac.il/courses/20441.htm).
 
 <img src="https://www.educative.io/v2api/editorpage/5295407815458816/image/4810048073629696" width= "400" height= "250">
 
