@@ -11,19 +11,15 @@ This are the projects I have completed in the course "Introduction to Computer S
 
 
 ## Introduction
-- Exercise 1 - Cipher » An implementation of the Caesar Cipher encryption & decryption in C 
+- Exercise 1 - Circle & Temperature » 
 
-- Exercise 2 - Bus Lines » An implementation of sorting algorithms in a program designed for Bus Lines.
+- Exercise 2 - Point & Segment1 & Segment2 » 
 
-- Exercise 3 A - Natural Language Processing » An implementation of the Markov Chain model to generate tweets
+- Exercise 3 A - Polygon » 
 
-- Exercise 3 B - Snakes and Ladders » A generic implementation of Snakes and Ladders using the Markov Chain model
+- Exercise 3 B -  »
 
-- Exercise 4 - Image Recognition, Neural Network » A digit recognizer program using Neural Network
-
-- Exercise 5 - Movie Recommender » A program that suggests the best movie option for a user based on their preferences.
-
-- Exercise 6 - HashMap & Dictionary » An implementation of HashMap and Dictionary data structures in C++.
+- Exercise 4 - BigNumber » 
 
 ### Contributing
 You are invited to submit pull requests.
