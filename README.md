@@ -11,7 +11,7 @@ This are the projects I have completed in the course "Introduction to Computer S
 
 
 ## Introduction
-- Exercise 1 - Circle & Temperature » 
+- Exercise 1 - Getting familiar with the language basics  » Circle & Temperature
 
 - Exercise 2 - Point & Segment1 & Segment2 » 
 
